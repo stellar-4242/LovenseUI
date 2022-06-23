@@ -1,4 +1,7 @@
-# Lovense UI
+# Credits
+API Originator; https://lovense.rest/ (this script uses a slightly modified version)
+
+# Lovense Sex Toys
 https://www.lovense.com/
 
 # Description 
